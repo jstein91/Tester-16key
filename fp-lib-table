@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name keebs)(type KiCad)(uri C:/Users/jstein/Desktop/Keebs/keebs.pretty-master)(options "")(descr ""))
+  (lib (name keyboard_parts)(type KiCad)(uri C:/Users/jstein/Desktop/Keebs/keyboard_parts.pretty-master)(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type KiCad)(uri C:/Users/jstein/Desktop/Keebs/random-keyboard-parts.pretty-master)(options "")(descr ""))
+)
